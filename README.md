@@ -23,9 +23,13 @@ Welcome to the **Mobile Legends Hero Battle** game! This project allows users to
 
 2. Download the compressed "ALL HEROES" folder from Google Drive.
 
-3. Extract the contents of the compressed folder into the project directory. Ensure the extracted folder is named "ALL HEROES".
+   ```bash
+   https://drive.google.com/file/d/1EFVcgaTamf1HvwsU63qek5e1c7ccGqMD/view?usp=sharing
+    ```
 
-4. Open `index.html` in your web browser.
+4. Extract the contents of the compressed folder into the project directory. Ensure the extracted folder is named "ALL HEROES".
+
+5. Open `index.html` in your web browser.
 
 ## Usage
 
